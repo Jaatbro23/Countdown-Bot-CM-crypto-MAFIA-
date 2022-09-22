@@ -30,7 +30,7 @@
   /set seconds "event"
 
 Example:
-  /set 86400 "TIME LEFT UNTIL NEW YEAR"
+  /set 500 "I'm noob event will live in"
 ```
 ```
 > You can send /stopc to stop all countdowns.
