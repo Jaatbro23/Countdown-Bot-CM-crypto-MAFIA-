@@ -5,7 +5,7 @@
 # Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/Jaatbro23/Countdown-Bot-CM-crypto-MAFIA-
                        
   
-START_TEXT = 'Heya,\nMy name is **Countdown Timer** ⏰\n\nI can countdown to your important events in **any group chat BY CM**. 🎉\nUse me to keep track of how much time is left for the event ⏳\n\nHit **❓HELP** to find out more about how to use me.'
+START_TEXT = 'Holola,\nMy name is **Countdown Timer** ⏰\n\nI can countdown to your important events in **any group chat BY CM**. 🎉\nUse me to keep track of how much time is left for the event ⏳\n\nHit **❓HELP** to find out more about how to use me.'
 
 GROUP_TEXT="""
 👥 | **HELP & SUPPORT**
