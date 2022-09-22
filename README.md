@@ -38,7 +38,7 @@ Example:
   /stopc
 ```
 <p align="center">
-<img src="https://telegra.ph/file/432ce18d60b1f07294d50.jpg">
+<img src="https://user-images.githubusercontent.com/112750226/191810131-8aab7f1a-7cba-4678-acb9-74a66725f07e.jpg">
 <p>
  
 ## Deployment Methods
